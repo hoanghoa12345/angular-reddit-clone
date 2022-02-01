@@ -1,5 +1,5 @@
 {
-  "name": "spring-reddit-clone",
+  "name": "angular-reddit-clone",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -19,6 +19,13 @@
     "@angular/platform-browser": "~11.2.14",
     "@angular/platform-browser-dynamic": "~11.2.14",
     "@angular/router": "~11.2.14",
+    "@fortawesome/angular-fontawesome": "^0.8.2",
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@tinymce/tinymce-angular": "^4.0.0",
+    "bootstrap": "^4.6.1",
+    "ngx-toastr": "^13.2.1",
+    "ngx-webstorage": "^7.0.1",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.3"
